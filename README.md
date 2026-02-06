@@ -20,16 +20,11 @@
 - 🌱 I'm currently learning **new technologies**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **web development, APIs, and databases**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **contacthasfirasya@gmail.com**
 - ⚡ Fun fact: **I love solving complex problems**
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasfi-therasyan&show_icons=true&theme=dracula&hide_border=false" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasfi-therasyan&theme=dracula&hide_border=false&layout=compact" height="180" alt="languages graph"  />
-</div>
 
 <!-- Streak Stats -->
 <div align="center">
