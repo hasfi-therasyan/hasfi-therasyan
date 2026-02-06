@@ -27,8 +27,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasfi-therasyan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasfi-therasyan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasfi-therasyan&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasfi-therasyan&theme=dracula&hide_border=false&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 <!-- Streak Stats -->
@@ -95,32 +95,15 @@
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgresql,prisma,tailwind,git,github,docker,aws,linux&perline=8" />
 </div>
 
-<!-- Featured Projects -->
-## 🚀 Featured Projects
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasfi-therasyan&repo=project-name-1&theme=dracula&hide_border=false&border_radius=5" height="120" alt="repo card"  />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasfi-therasyan&repo=project-name-2&theme=dracula&hide_border=false&border_radius=5" height="120" alt="repo card"  />
-</div>
-
 <!-- Connect with Me -->
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/hasfirasya/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/hasfi-therasyan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://discord.gg/hasfi-therasyan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:contacthasfirasya@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
   </a>
 </div>
 
