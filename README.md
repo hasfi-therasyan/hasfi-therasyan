@@ -20,7 +20,7 @@
 - 🌱 I'm currently learning **new technologies**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **web development, APIs, and databases**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **contacthasfirasya@gmail.com**
 - ⚡ Fun fact: **I love solving complex problems**
 
 <!-- GitHub Stats -->
