@@ -20,15 +20,15 @@
 - 🌱 I'm currently learning **new technologies**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **web development, APIs, and databases**
-- 📫 How to reach me: **contacthasfirasya@gmail.com**
+- 📫 How to reach me: **your.email@example.com**
 - ⚡ Fun fact: **I love solving complex problems**
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasfi-therasyan&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasfi-therasyan&theme=dracula&hide_border=false&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasfi-therasyan&show_icons=true&theme=dracula&hide_border=false" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasfi-therasyan&theme=dracula&hide_border=false&layout=compact" height="180" alt="languages graph"  />
 </div>
 
 <!-- Streak Stats -->
@@ -105,11 +105,6 @@
   <a href="mailto:contacthasfirasya@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-</div>
-
-<!-- Snake Animation (Optional - requires GitHub Actions) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hasfi-therasyan/hasfi-therasyan/output/snake.svg" alt="Snake animation" />
 </div>
 
 <!-- Footer -->
